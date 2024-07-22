@@ -1,0 +1,3 @@
+displayName = Arcane
+author = Nam4ik and Arcanedev-team
+version = 0.1
